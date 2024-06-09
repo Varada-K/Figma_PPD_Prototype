@@ -11,7 +11,8 @@ We were a group of 4 members.
 
 This app was ideated with Dr. Terika McCall and our team; Was designed by: Varada K.
 
-Figma Link: https://rb.gy/jbg9u8
+Figma Link: https://www.figma.com/proto/44q2IVk79eSjOVjaYVuDNg/PPD-Mobile-app?node-id=8-2&starting-point-node-id=8%3A2&scaling=scale-down&t=O5hDjkqj5LQRQIrk-1
+
 
 
 
